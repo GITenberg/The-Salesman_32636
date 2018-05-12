@@ -1,0 +1,32 @@
+_repo: The-Salesman_32636
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32636-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boyd, Waldo T.
+    aliases:
+    - Andreassen, K. (Karl)
+    - Andreassen, Karl
+    birthdate: 1918
+    deathdate: 2012
+    gutenberg_agent_id: '35954'
+    url: http://www.gutenberg.org/2009/agents/35954
+description: ''
+gutenberg_issued: '2010-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sales personnel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Robots -- Fiction'
+title: The Salesman
+url: http://www.gutenberg.org/ebooks/32636
